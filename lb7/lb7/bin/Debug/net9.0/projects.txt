@@ -1,0 +1,25 @@
+Project: Education Portal
+Type: Training
+End Date: 20.05.2025
+Price: 8000
+Average Module Size: 4,00
+Modules:
+Manager: Name: Ivan Surname: Petrenko, Name: Databases, Size: 4,2
+Manager: Name: Maria Surname: Koval, Name: UI/UX, Size: 3,8
+-----
+Project: ERP
+Type: Commercial
+End Date: 20.06.2025
+Price: 20000
+Average Module Size: 4,20
+Modules:
+Manager: Name: Ivan Surname: Petrenko, Name: Databases, Size: 4,2
+-----
+Project: Personal Blog
+Type: PersonalUse
+End Date: 25.05.2025
+Price: 500
+Average Module Size: 3,80
+Modules:
+Manager: Name: Maria Surname: Koval, Name: UI/UX, Size: 3,8
+-----

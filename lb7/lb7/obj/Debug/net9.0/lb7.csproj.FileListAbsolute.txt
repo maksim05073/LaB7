@@ -1,0 +1,14 @@
+C:\Users\ку\Desktop\proga\lb7\lb7\obj\Debug\net9.0\lb7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ку\Desktop\proga\lb7\lb7\obj\Debug\net9.0\lb7.AssemblyInfoInputs.cache
+C:\Users\ку\Desktop\proga\lb7\lb7\obj\Debug\net9.0\lb7.AssemblyInfo.cs
+C:\Users\ку\Desktop\proga\lb7\lb7\obj\Debug\net9.0\lb7.csproj.CoreCompileInputs.cache
+C:\Users\ку\Desktop\proga\lb7\lb7\bin\Debug\net9.0\lb7.exe
+C:\Users\ку\Desktop\proga\lb7\lb7\bin\Debug\net9.0\lb7.deps.json
+C:\Users\ку\Desktop\proga\lb7\lb7\bin\Debug\net9.0\lb7.runtimeconfig.json
+C:\Users\ку\Desktop\proga\lb7\lb7\bin\Debug\net9.0\lb7.dll
+C:\Users\ку\Desktop\proga\lb7\lb7\bin\Debug\net9.0\lb7.pdb
+C:\Users\ку\Desktop\proga\lb7\lb7\obj\Debug\net9.0\lb7.dll
+C:\Users\ку\Desktop\proga\lb7\lb7\obj\Debug\net9.0\refint\lb7.dll
+C:\Users\ку\Desktop\proga\lb7\lb7\obj\Debug\net9.0\lb7.pdb
+C:\Users\ку\Desktop\proga\lb7\lb7\obj\Debug\net9.0\lb7.genruntimeconfig.cache
+C:\Users\ку\Desktop\proga\lb7\lb7\obj\Debug\net9.0\ref\lb7.dll
