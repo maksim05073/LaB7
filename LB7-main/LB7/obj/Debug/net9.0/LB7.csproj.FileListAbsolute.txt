@@ -1,0 +1,28 @@
+D:\LB4\LB7\LB7\bin\Debug\net9.0\LB7.exe
+D:\LB4\LB7\LB7\bin\Debug\net9.0\LB7.deps.json
+D:\LB4\LB7\LB7\bin\Debug\net9.0\LB7.runtimeconfig.json
+D:\LB4\LB7\LB7\bin\Debug\net9.0\LB7.dll
+D:\LB4\LB7\LB7\bin\Debug\net9.0\LB7.pdb
+D:\LB4\LB7\LB7\obj\Debug\net9.0\LB7.GeneratedMSBuildEditorConfig.editorconfig
+D:\LB4\LB7\LB7\obj\Debug\net9.0\LB7.AssemblyInfoInputs.cache
+D:\LB4\LB7\LB7\obj\Debug\net9.0\LB7.AssemblyInfo.cs
+D:\LB4\LB7\LB7\obj\Debug\net9.0\LB7.csproj.CoreCompileInputs.cache
+D:\LB4\LB7\LB7\obj\Debug\net9.0\LB7.dll
+D:\LB4\LB7\LB7\obj\Debug\net9.0\refint\LB7.dll
+D:\LB4\LB7\LB7\obj\Debug\net9.0\LB7.pdb
+D:\LB4\LB7\LB7\obj\Debug\net9.0\LB7.genruntimeconfig.cache
+D:\LB4\LB7\LB7\obj\Debug\net9.0\ref\LB7.dll
+C:\Users\navro\OneDrive\Робочий стіл\LB7-main\LB7\obj\Debug\net9.0\LB7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\navro\OneDrive\Робочий стіл\LB7-main\LB7\obj\Debug\net9.0\LB7.AssemblyInfoInputs.cache
+C:\Users\navro\OneDrive\Робочий стіл\LB7-main\LB7\obj\Debug\net9.0\LB7.AssemblyInfo.cs
+C:\Users\navro\OneDrive\Робочий стіл\LB7-main\LB7\obj\Debug\net9.0\LB7.csproj.CoreCompileInputs.cache
+C:\Users\navro\OneDrive\Робочий стіл\LB7-main\LB7\obj\Debug\net9.0\LB7.dll
+C:\Users\navro\OneDrive\Робочий стіл\LB7-main\LB7\obj\Debug\net9.0\refint\LB7.dll
+C:\Users\navro\OneDrive\Робочий стіл\LB7-main\LB7\obj\Debug\net9.0\LB7.pdb
+C:\Users\navro\OneDrive\Робочий стіл\LB7-main\LB7\bin\Debug\net9.0\LB7.exe
+C:\Users\navro\OneDrive\Робочий стіл\LB7-main\LB7\bin\Debug\net9.0\LB7.deps.json
+C:\Users\navro\OneDrive\Робочий стіл\LB7-main\LB7\bin\Debug\net9.0\LB7.runtimeconfig.json
+C:\Users\navro\OneDrive\Робочий стіл\LB7-main\LB7\bin\Debug\net9.0\LB7.dll
+C:\Users\navro\OneDrive\Робочий стіл\LB7-main\LB7\bin\Debug\net9.0\LB7.pdb
+C:\Users\navro\OneDrive\Робочий стіл\LB7-main\LB7\obj\Debug\net9.0\LB7.genruntimeconfig.cache
+C:\Users\navro\OneDrive\Робочий стіл\LB7-main\LB7\obj\Debug\net9.0\ref\LB7.dll
