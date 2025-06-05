@@ -1,0 +1,14 @@
+C:\Users\ку\Desktop\proga\LB7_3\LB7_3\bin\Debug\net9.0\LB7_3.exe
+C:\Users\ку\Desktop\proga\LB7_3\LB7_3\bin\Debug\net9.0\LB7_3.deps.json
+C:\Users\ку\Desktop\proga\LB7_3\LB7_3\bin\Debug\net9.0\LB7_3.runtimeconfig.json
+C:\Users\ку\Desktop\proga\LB7_3\LB7_3\bin\Debug\net9.0\LB7_3.dll
+C:\Users\ку\Desktop\proga\LB7_3\LB7_3\bin\Debug\net9.0\LB7_3.pdb
+C:\Users\ку\Desktop\proga\LB7_3\LB7_3\obj\Debug\net9.0\LB7_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ку\Desktop\proga\LB7_3\LB7_3\obj\Debug\net9.0\LB7_3.AssemblyInfoInputs.cache
+C:\Users\ку\Desktop\proga\LB7_3\LB7_3\obj\Debug\net9.0\LB7_3.AssemblyInfo.cs
+C:\Users\ку\Desktop\proga\LB7_3\LB7_3\obj\Debug\net9.0\LB7_3.csproj.CoreCompileInputs.cache
+C:\Users\ку\Desktop\proga\LB7_3\LB7_3\obj\Debug\net9.0\LB7_3.dll
+C:\Users\ку\Desktop\proga\LB7_3\LB7_3\obj\Debug\net9.0\refint\LB7_3.dll
+C:\Users\ку\Desktop\proga\LB7_3\LB7_3\obj\Debug\net9.0\LB7_3.pdb
+C:\Users\ку\Desktop\proga\LB7_3\LB7_3\obj\Debug\net9.0\LB7_3.genruntimeconfig.cache
+C:\Users\ку\Desktop\proga\LB7_3\LB7_3\obj\Debug\net9.0\ref\LB7_3.dll
